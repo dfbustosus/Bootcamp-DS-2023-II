@@ -140,3 +140,12 @@ history -Count 10 (ultimos 10 comandos)
 Para dedicar comandos tipo (pero solo en git Bash)
 alias david="touch david.json"
 unalias david 
+
+
+
+# Alternativas para usar Python
+1. Google Colab >>> Check!
+2. Github >> Check
+3. Anaconda (Jupyter notebook/Jupyter Lab) >> Check
+4. Python base + Editor de texto (e.g Visual Studio) >> Check
+5. Python > Sublime Text
