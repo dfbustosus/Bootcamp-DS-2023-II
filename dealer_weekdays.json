@@ -1,0 +1,1262 @@
+{
+    "41": {
+        "Monday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Tuesday": {
+            "OPEN": "01:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Wednesday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Thursday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Friday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Saturday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "17:00:00"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "42": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1855": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1856": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1857": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1858": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1859": {
+        "Monday": {
+            "OPEN": "01:00:00",
+            "CLOSE": "12:00:00"
+        },
+        "Tuesday": {
+            "OPEN": "01:00:00",
+            "CLOSE": "12:00:00"
+        },
+        "Wednesday": {
+            "OPEN": "01:00:00",
+            "CLOSE": "12:00:00"
+        },
+        "Thursday": {
+            "OPEN": "01:00:00",
+            "CLOSE": "12:00:00"
+        },
+        "Friday": {
+            "OPEN": "01:00:00",
+            "CLOSE": "12:00:00"
+        },
+        "Saturday": {
+            "OPEN": "06:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1860": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1861": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1862": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1863": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1864": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1865": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1866": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1867": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1868": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1869": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1870": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1871": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1872": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1873": {
+        "Monday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Tuesday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Wednesday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Thursday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Friday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Saturday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        },
+        "Sunday": {
+            "OPEN": "08:00:00",
+            "CLOSE": "18:00:00"
+        }
+    },
+    "1874": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1875": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1876": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1877": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1878": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1879": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1880": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1881": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1882": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1883": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1884": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1885": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1886": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1887": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1888": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1889": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1890": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1891": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1892": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1893": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    },
+    "1894": {
+        "Monday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Tuesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Wednesday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Thursday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Friday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Saturday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        },
+        "Sunday": {
+            "OPEN": "Nothing",
+            "CLOSE": "Nothing"
+        }
+    }
+}
